@@ -1,4 +1,4 @@
-# Awesome ChatGPT API
+# ChatGPT API
 
 > [中文](README.cn.md)
 
