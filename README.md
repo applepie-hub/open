@@ -1,6 +1,4 @@
-# Awesome ChatGPT API
-
-> [中文](README.cn.md)
+# ChatGPT API
 
 Curated list of apps and tools that not only use the new [ChatGPT API](https://platform.openai.com/docs/api-reference/chat), but also allow users to configure their own [API keys](https://platform.openai.com/account/api-keys), enabling free and on-demand usage of their own quota.
 
